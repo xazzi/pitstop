@@ -1,14 +1,14 @@
-%PDF-1.4%ÄÑàåêîòú†§®¨∞¥∏º¿ƒ»Ã–‘ÿ‹‡‰ËÏÙ¯¸1 0 obj<< /Company (Enfocus) /LastChanged3 (D:20220203125619-07'00') /LastChanged2 (D:20220203125619-07'00') /LastChanged (D:20220203125619-07'00') /Description (Finds all Overprinting Spot Colors, and converts them to CMYK using the defined color management preferences.
+%PDF-1.4%ÄÑàåêîòú†§®¨∞¥∏º¿ƒ»Ã–‘ÿ‹‡‰ËÏÙ¯¸1 0 obj[ 1]endobj2 0 obj<< /PitStop 11 0 R>>endobj3 0 obj<< /Company (Enfocus) /LastChanged3 (D:20250711082139-07'00') /LastChanged2 (D:20250711082139-07'00') /LastChanged (D:20250711082139-07'00') /Description (Finds all Overprinting Spot Colors, and converts them to CMYK using the defined color management preferences.
 Within PDF, CMYK cannot overprint CMYK so to preserve the appearance of the file, multiply transparency is used in place of overprint and the overprint is removed.
-There are two separate parts, one to handle fills and the other strokes.) /Name (Local - Remove Spot Colors) /Author (Enfocus Customer Support)>>endobj2 0 obj[ 1]endobj3 0 obj[ 1]endobj4 0 obj<< /Pages 8 0 R /Metadata 10 0 R /Type /Catalog /FICL:Enfocus 12 0 R>>endobj5 0 obj<< /MediaBox[ 0 0 500 500] /Parent 8 0 R /Type /Page /Resources<<>>>>endobj6 0 obj<< /NextIDWithinDatabase 1 /ActionListDatabase[ 7 0 R]>>endobj7 0 obj<< /IDWithinDatabase 0 /Type /ActionList /Creator /PitStop /Version 1 /Data[<< /100001 4 /100006 1 /100004 1 /3 false /100000 2006 /100007 false /100005 9 0 R /1 (UPgreen) /2 false /100003 false>><< /100001 1 /9 (Multiply) /100006 2 /100004 2 /5 0 /100000 3124 /100007 false /6 0 /100005 2 0 R /4 true /1 true /2 true /100003 true /8 1>><< /100001 1 /100006 2 /100004 2 /100000 2007 /100007 false /100005 14 0 R /1 2 /2 1 /100003 true>><< /100001 1 /100006 2 /100004 2 /3 999 /100000 1003 /100007 false /100005 3 0 R /4 1 /1 0 /2 0 /100003 true>>] /Info 1 0 R>>endobj8 0 obj<< /Count 2 /Kids[ 11 0 R 5 0 R] /Type /Pages>>endobj9 0 obj[ 1]endobj11 0 obj<< /MediaBox[ 0 0 500 500] /Parent 8 0 R /Type /Page /Resources<<>>>>endobj12 0 obj<< /PitStop 6 0 R>>endobj13 0 obj<< /CreationDate (D:20181206174604+01'00') /ModDate (D:20220203125619-07'00')>>endobj14 0 obj[ 1]endobj10 0 obj<< /Length 1091 /Subtype /XML /Type /Metadata>>stream
+There are two separate parts, one to handle fills and the other strokes.) /Name (Local - Remove Spot Colors) /Author (Enfocus Customer Support)>>endobj4 0 obj<< /MediaBox[ 0 0 500 500] /Parent 13 0 R /Type /Page /Resources<<>>>>endobj5 0 obj[ 1]endobj7 0 obj<< /Pages 13 0 R /Metadata 6 0 R /Type /Catalog /FICL:Enfocus 2 0 R>>endobj8 0 obj<< /CreationDate (D:20181206174604+01'00') /ModDate (D:20250711082139-07'00')>>endobj9 0 obj<< /MediaBox[ 0 0 500 500] /Parent 13 0 R /Type /Page /Resources<<>>>>endobj10 0 obj[ 1]endobj11 0 obj<< /NextIDWithinDatabase 1 /ActionListDatabase[ 12 0 R]>>endobj12 0 obj<< /IDWithinDatabase 0 /Type /ActionList /Creator /PitStop /Version 1 /Data[<< /100001 4 /100006 1 /100004 1 /3 false /100000 2006 /100007 false /100005 5 0 R /1 (UPgreen) /2 false /100003 false>><< /100001 1 /9 (Multiply) /100006 2 /100004 2 /5 0 /100000 3124 /100007 false /6 0 /100005 14 0 R /4 true /1 true /2 true /100003 true /8 1>><< /100001 1 /100006 2 /100004 2 /100000 2007 /100007 false /100005 10 0 R /1 2 /2 1 /100003 true>><< /100001 1 /100006 2 /100004 2 /3 999 /100000 1003 /100007 false /100005 1 0 R /4 1 /1 0 /2 0 /100003 true>>] /Info 3 0 R>>endobj13 0 obj<< /Count 2 /Kids[ 4 0 R 9 0 R] /Type /Pages>>endobj14 0 obj[ 1]endobj6 0 obj<< /Length 1091 /Subtype /XML /Type /Metadata>>stream
 <?xpacket begin="Ôªø" id="W5M0MpCehiHzreSzNTczkc9d"?>
 <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="XMP Core 5.1.2">
    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
       <rdf:Description rdf:about=""
             xmlns:xmp="http://ns.adobe.com/xap/1.0/">
          <xmp:CreateDate>2018-12-06T17:46:04+01:00</xmp:CreateDate>
-         <xmp:MetadataDate>2022-02-03T12:56:19-07:00</xmp:MetadataDate>
-         <xmp:ModifyDate>2022-02-03T12:56:19-07:00</xmp:ModifyDate>
+         <xmp:MetadataDate>2025-07-11T08:21:39-07:00</xmp:MetadataDate>
+         <xmp:ModifyDate>2025-07-11T08:21:39-07:00</xmp:ModifyDate>
       </rdf:Description>
       <rdf:Description rdf:about=""
             xmlns:dc="http://purl.org/dc/elements/1.1/">
@@ -24,17 +24,17 @@ There are two separate parts, one to handle fills and the other strokes.) /Name 
                                                                           
 <?xpacket end="w"?>endstreamendobjxref0 150000000000 65535 f
 0000000044 00000 n
-0000000635 00000 n
-0000000656 00000 n
-0000000677 00000 n
-0000000764 00000 n
-0000000854 00000 n
-0000000929 00000 n
-0000001517 00000 n
-0000001583 00000 n
-0000001851 00000 n
-0000001604 00000 n
-0000001695 00000 n
-0000001732 00000 n
-0000001829 00000 n
-trailer<< /Root 4 0 R /Info 13 0 R /Size 15 /ID[ <8690d16d82bc9ed6801056a682b5e2d3> <36b4e93f15193ec4d6967f9f389a0b04>]>>startxref3025%%EOF
+0000000065 00000 n
+0000000102 00000 n
+0000000693 00000 n
+0000000784 00000 n
+0000001855 00000 n
+0000000805 00000 n
+0000000891 00000 n
+0000000987 00000 n
+0000001078 00000 n
+0000001100 00000 n
+0000001177 00000 n
+0000001767 00000 n
+0000001833 00000 n
+trailer<< /Root 7 0 R /Info 8 0 R /Size 15 /ID[ <8690d16d82bc9ed6801056a682b5e2d3> <4e19a251b7b712a9d0d8ce3df47e1564>]>>startxref3028%%EOF
